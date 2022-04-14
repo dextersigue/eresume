@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+span{
+    display: block;
+}
+
+.container{
+    width: 1200px;
+    max-width: 80%;
+}
+
+.wrapper{
+    display: flex;
+
+}
+
+.left{
+    width: 50%;
+    background-color: lightblue;
+    padding: 2rem;
+    height: 600px;
+}
+
+.right{
+    width: 70%;
+    margin-left: 20px;
+}
+
+hr{
+    padding: 2px;
+    background-color: violet;
+}
+
+h1{
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+h2{
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+}
+
+h3{
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.skyblue{
+    font-size: 2rem;
+    background-color: skyblue;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+th{
+    margin-top: 10rem;
+    font-size: 2rem;
+    font-weight: 800;
+    background-color: skyblue;
+}
+
+td{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-left: 3rem;
+}
+
+
+
+tr{
+    margin-top: 4rem;
+}
+
+.checked{
+    color: orange;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+.rightwrapper{
+    display: flex;
+}
+
+ul{
+    margin: 1rem 0 0 20rem;
+    width: 80%;
+}
+
+h4{
+    font-size: 1.6rem;
+}
+
+.marginleft{
+    margin: 0 0 1rem 22rem;;
+}
+
+
+
+
